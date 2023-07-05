@@ -1,0 +1,6 @@
+
+rules.txt是关键字规则表，用换行分隔。
+urls.txt是监测的目标网站，用换行分隔。注：必须要用http://或者https://开头
+target_domain_js是爬虫表
+set_target是最终执行扫描的去重文件
+
